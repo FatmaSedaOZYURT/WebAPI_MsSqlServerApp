@@ -1,2 +1,2 @@
 # WebAPI_MsSqlServerApp
-WebAPI ile Sql Server üzerinden veri aktarımını anlamak üzere yapmış olduğum bir proje.
+WebAPI ile MsSql Server üzerinden veri aktarımını anlamak üzere yapmış olduğum bir proje.
