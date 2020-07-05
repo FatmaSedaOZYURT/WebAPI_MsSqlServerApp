@@ -1,0 +1,12 @@
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\WebAPI.DAL.dll.config
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\WebAPI.DAL.dll
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\WebAPI.DAL.pdb
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\EntityFramework.dll
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\EntityFramework.xml
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\obj\Debug\WebAPI.DAL.csprojAssemblyReference.cache
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\obj\Debug\WebAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\obj\Debug\WebAPI.DAL.csproj.CopyComplete
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\obj\Debug\WebAPI.DAL.dll
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_SQLServerApp\WebAPI.DAL\obj\Debug\WebAPI.DAL.pdb
